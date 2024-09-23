@@ -44,6 +44,6 @@ function draw() {
   
   fill('blue')
   stroke('blue')
-  rect(325,550,50,20)
+  rect(325,550,50,20) 
   rect(225,550,50,20)
 }
